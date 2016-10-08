@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f200f5d5-66c6-41c9-a778-e66cb8142500" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/IFChat_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/config/log4js.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/config/redisSession.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/expressApp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/globalData/globalData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/httpController/BaseController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/httpController/BaseControllerFuncs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/httpController/gate/GateController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/httpController/gate/GateFuncs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/logger/IFLogger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/logger/IFLoggerInit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/managers/IFSession.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/views/error.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/views/index.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatGate/views/layout.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/config/log4js.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/config/mysqlConfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/config/redisSession.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/config/session.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/expressApp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/globalData/globalData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/httpController/BaseController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/httpController/BaseControllerFuncs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/httpController/user/UserController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/httpController/user/UserFuncs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/logger/IFLogger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/logger/IFLoggerInit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/managers/SessionManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/public/html/userLogin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/public/html/userMain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/public/js/userLogin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/public/js/userMain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/public/jslib/jquery-2.2.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/views/error.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/views/index.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatHttpClient/views/layout.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/RPCClient/RPCClient.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/RPCServer/RPCServer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/config/log4js.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/config/mysqlConfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/config/redis.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/config/redisSession.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/config/session.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/expressApp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/globalData/globalData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/httpController/BaseController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/httpController/BaseControllerFuncs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/httpController/setup/SetupController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/httpController/setup/SetupFuncs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/httpController/user/UserController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/httpController/user/UserFuncs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/logger/IFLogger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/logger/IFLoggerInit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/managers/RedisManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/managers/SessionManager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/mysql_models/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/mysql_models/message.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/mysql_models/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/routes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/routes/setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/routes/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/socket/messageHandler/HttpMessageHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/socket/messageHandler/MessageHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/socket/messageHandler/WSMessageHander.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/socket/websocket/IFChatWSFuncs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/socket/websocket/IFChatWSSender.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/socket/websocket/IFChatWSServer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IFChatServer/socket/websocket/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/error/IFError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/models/IFSocket/IFSocket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/models/IFSocket/message/Message.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/models/IFSocket/message/MessageModel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/models/IFSocket/message/MessageStatus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/models/IFSocket/message/MessageType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/models/IFSocket/message/systemMessage/SystemMessage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/models/IFSocket/socketUser/SocketUser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/models/IFSocket/socketUser/SocketUserType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/utils/ParameterCheck/ParameterCheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/utils/ParameterCheck/ParameterDesc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/utils/ParameterCheck/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/utils/dispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/servers1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/main.js" />
+    </list>
+    <ignored path="IFChat.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="IFChat" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="IFChatWSSender.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IFChatServer/socket/websocket/IFChatWSSender.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#48#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RPCClient.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IFChatServer/RPCClient/RPCClient.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IFChatServer/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-535">
+              <caret line="101" column="49" selection-start-line="101" selection-start-column="49" selection-end-line="101" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="78" column="38" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dispatcher.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/utils/dispatcher.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userMain.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IFChatHttpClient/public/js/userMain.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="753">
+              <caret line="113" column="5" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userLogin.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IFChatHttpClient/public/js/userLogin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RPCServer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IFChatServer/RPCServer/RPCServer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="servers.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/servers.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="99" selection-start-line="7" selection-start-column="99" selection-end-line="7" selection-end-column="99" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="message.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IFChatServer/mysql_models/message.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/IFChatHttpClient/managers/SessionManager.js" />
+        <option value="$PROJECT_DIR$/IFChatHttpClient/config/session.json" />
+        <option value="$PROJECT_DIR$/IFChatServer/config/session.json" />
+        <option value="$PROJECT_DIR$/IFChatGate/expressApp.js" />
+        <option value="$PROJECT_DIR$/IFChatHttpClient/expressApp.js" />
+        <option value="$PROJECT_DIR$/IFChatHttpClient/public/js/userLogin.js" />
+        <option value="$PROJECT_DIR$/IFChatHttpClient/public/html/userMain.html" />
+        <option value="$PROJECT_DIR$/common/module/UserType.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/socket/models/socketUser/SocketUser.js" />
+        <option value="$PROJECT_DIR$/common/models/socket/socketUser/SocketUser.js" />
+        <option value="$PROJECT_DIR$/common/models/socket/message/MessageType.js" />
+        <option value="$PROJECT_DIR$/common/models/socket/message/MessageModel.js" />
+        <option value="$PROJECT_DIR$/common/models/socket/socket.js" />
+        <option value="$PROJECT_DIR$/common/models/socket/message/Message.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/socket/messageHandler/WSMessageHander.js" />
+        <option value="$PROJECT_DIR$/common/models/IFSocket/socketUser/SocketUser.js" />
+        <option value="$PROJECT_DIR$/common/error/HttpError.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/httpController/setup/SetupFuncs.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/routes/user.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/socket/messageHandler/MessageHandler.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/socket/messageHandler/HttpMessageHandler.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/config/redis.json" />
+        <option value="$PROJECT_DIR$/IFChatServer/managers/RedisManager.js" />
+        <option value="$PROJECT_DIR$/IFChatGate/httpController/gate/GateController.js" />
+        <option value="$PROJECT_DIR$/IFChatHttpClient/httpController/user/UserController.js" />
+        <option value="$PROJECT_DIR$/IFChatHttpClient/httpController/user/UserFuncs.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/httpController/setup/SetupController.js" />
+        <option value="$PROJECT_DIR$/common/models/IFSocket/message/MessageType.js" />
+        <option value="$PROJECT_DIR$/common/models/IFSocket/message/MessageModel.js" />
+        <option value="$PROJECT_DIR$/common/models/IFSocket/message/systemMessage/SystemMessage.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/socket/websocket/IFChatWSServer.js" />
+        <option value="$PROJECT_DIR$/common/models/IFSocket/message/Message.js" />
+        <option value="$PROJECT_DIR$/common/models/IFSocket/message/MessageStatus.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/httpController/user/UserFuncs.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/httpController/user/UserController.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/config/log4js.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/IFChatServer/expressApp.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/globalData/globalData.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/socket/websocket/IFChatWSFuncs.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/main.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/mysql_models/message.js" />
+        <option value="$PROJECT_DIR$/common/error/IFError.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/socket/websocket/IFChatWSSender.js" />
+        <option value="internal/process/next_tick.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/RPCClient/RPCClient.js" />
+        <option value="$PROJECT_DIR$/IFChatServer/RPCServer/RPCServer.js" />
+        <option value="$PROJECT_DIR$/config/servers.json" />
+        <option value="$PROJECT_DIR$/main/main.js" />
+        <option value="$PROJECT_DIR$/common/utils/dispatcher.js" />
+        <option value="$PROJECT_DIR$/IFChatHttpClient/public/js/userMain.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="46" />
+    <option name="y" value="27" />
+    <option name="width" value="1396" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChatHttpClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChatHttpClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChatHttpClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFSocket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFSocket" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="message" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IFChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="error" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IFChatOld" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wangjian/Node/IFChat/node_modules/express/lib/response.js" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/IFChatHttpClient/config" />
+      <recent name="$PROJECT_DIR$/IFChatHttpClient" />
+      <recent name="$PROJECT_DIR$/IFChatHttpClient/public/jslib" />
+      <recent name="$PROJECT_DIR$/IFChatHttpClient/httpController" />
+      <recent name="$PROJECT_DIR$/IFChatHttpClient/routers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/common/models/socket/socketUser" />
+      <recent name="$PROJECT_DIR$/common/models/socket" />
+      <recent name="$PROJECT_DIR$/common/module/socket" />
+      <recent name="$PROJECT_DIR$/IFChatServer/socket/models/message" />
+      <recent name="$PROJECT_DIR$/IFChatServer/socket/models/systemMessage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.main.js">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
+      <node-js-remote-debug />
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="gateServer" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="main.js" application-parameters="{\&quot;serverId\&quot;:\&quot;gate-1\&quot;,\&quot;debug\&quot;:true}" node-parameters="--expose_debug_as=v8debug" working-dir="$PROJECT_DIR$/IFChatGate">
+      <method />
+    </configuration>
+    <configuration default="false" name="chatServer" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="main.js" application-parameters="{\&quot;serverId\&quot;:\&quot;chat-server-1\&quot;,\&quot;debug\&quot;:true}" node-parameters="--expose_debug_as=v8debug" working-dir="$PROJECT_DIR$/IFChatServer">
+      <method />
+    </configuration>
+    <configuration default="false" name="chatHttpClient" type="NodeJSConfigurationType" factoryName="Node.js" singleton="true" path-to-node="project" path-to-js-file="main.js" application-parameters="{\&quot;serverId\&quot;:\&quot;chat-client-1\&quot;,\&quot;debug\&quot;:true}" node-parameters="--expose_debug_as=v8debug" working-dir="$PROJECT_DIR$/IFChatHttpClient">
+      <method />
+    </configuration>
+    <configuration default="false" name="main.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="main/main.js" node-parameters="--expose_debug_as=v8debug" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.gateServer" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.chatServer" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.chatHttpClient" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.main.js" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f200f5d5-66c6-41c9-a778-e66cb8142500" name="Default" comment="" />
+      <created>1475207081159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475207081159</updated>
+      <workItem from="1475207082678" duration="18205000" />
+      <workItem from="1475285081057" duration="5915000" />
+      <workItem from="1475323615334" duration="8779000" />
+      <workItem from="1475363285729" duration="5979000" />
+      <workItem from="1475392525596" duration="5896000" />
+      <workItem from="1475454017936" duration="25275000" />
+      <workItem from="1475539798036" duration="16013000" />
+      <workItem from="1475562599111" duration="616000" />
+      <workItem from="1475563220682" duration="245000" />
+      <workItem from="1475563469376" duration="409000" />
+      <workItem from="1475563881897" duration="373000" />
+      <workItem from="1475564258743" duration="57000" />
+      <workItem from="1475564322099" duration="755000" />
+      <workItem from="1475565132920" duration="13266000" />
+      <workItem from="1475712404552" duration="9689000" />
+      <workItem from="1475803159837" duration="2038000" />
+      <workItem from="1475809091302" duration="5532000" />
+      <workItem from="1475825247370" duration="6168000" />
+      <workItem from="1475905084749" duration="13118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="138328000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="46" y="27" width="1396" height="877" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2170487" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279703" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46039605" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/IFChatGate/managers/IFSession.js</url>
+          <line>26</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="323" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/common/models/IFSocket/socketUser/SocketUser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/config/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/IFChatServer/config/redis.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/managers/RedisManager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatGate/httpController/gate/GateController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="33" column="52" selection-start-line="33" selection-start-column="52" selection-end-line="33" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/httpController/setup/SetupController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bson/tools/gleak.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/clean-css/History.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="130" column="37" selection-start-line="130" selection-start-column="37" selection-end-line="130" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/serve-static/node_modules/statuses/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="80" column="31" selection-start-line="80" selection-start-column="31" selection-end-line="80" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/send/node_modules/statuses/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="91" column="79" selection-start-line="91" selection-start-column="79" selection-end-line="91" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/clean-css/lib/clean.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="63" column="4" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/http-errors/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatHttpClient/httpController/BaseController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/IFSocket/message/MessageModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/IFSocket/message/systemMessage/SystemMessage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jade/lib/nodes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/IFSocket/message/Message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/IFSocket/IFSocket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/IFSocket/message/MessageType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/IFSocket/message/MessageStatus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatHttpClient/httpController/user/UserFuncs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="88" column="52" selection-start-line="88" selection-start-column="52" selection-end-line="88" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatHttpClient/httpController/user/UserController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="67" column="60" selection-start-line="67" selection-start-column="60" selection-end-line="67" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/config/log4js.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/logger/IFLogger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatGate/logger/IFLogger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/RPCServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding>
+            <marker date="1475905762000" expanded="true" signature="0:623" ph="{&quot;name&quot;: &quot;IFChat&quot;...}" />
+            <marker date="1475905762000" expanded="true" signature="129:583" ph="{&quot;body-parser&quot;: &quot;~1.13.2&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/socket/messageHandler/MessageHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/socket/messageHandler/HttpMessageHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/socket/messageHandler/WSMessageHander.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/socket/websocket/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/expressApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/globalData/globalData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/httpController/user/UserController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="127" column="21" selection-start-line="127" selection-start-column="21" selection-end-line="127" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/socket/websocket/IFChatWSServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="54" column="57" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/socket/websocket/IFChatWSFuncs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="155" column="17" selection-start-line="155" selection-start-column="17" selection-end-line="155" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/hprose/lib/client/Client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="386" column="21" selection-start-line="386" selection-start-column="21" selection-end-line="386" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/httpController/user/UserFuncs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="129" column="17" selection-start-line="129" selection-start-column="17" selection-end-line="129" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/mysql_models/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="53" column="17" selection-start-line="45" selection-start-column="10" selection-end-line="53" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/mysql_models/message.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/error/IFError.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/socket/websocket/IFChatWSSender.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/RPCClient/RPCClient.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/RPCServer/RPCServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/servers.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="99" selection-start-line="7" selection-start-column="99" selection-end-line="7" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatServer/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-535">
+          <caret line="101" column="49" selection-start-line="101" selection-start-column="49" selection-end-line="101" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ip/lib/ip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="351" column="0" selection-start-line="351" selection-start-column="0" selection-end-line="351" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="78" column="38" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/utils/dispatcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatHttpClient/public/js/userLogin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IFChatHttpClient/public/js/userMain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="113" column="5" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

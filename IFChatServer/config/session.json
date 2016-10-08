@@ -1,0 +1,12 @@
+{
+  "name":"IFChatSession",
+  "secret":"secretWords",
+  "proxy":true,
+  "resave":true,
+  "saveUninitialized":false,
+  "cookie":
+  {
+    "secure":false,
+    "maxAge":3600000
+  }
+}

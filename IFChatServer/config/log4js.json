@@ -1,0 +1,32 @@
+{
+  "appenders": [
+    {
+      "category":"console",
+      "type":"console"
+    },
+    {
+      "category": "debug",
+      "type": "console",
+      "filename": "/Users/wangjian/Node/IFChat/log/logTody.log",
+      "pattern": "yyyy-MM-dd.log",
+      "alwaysIncludePattern": true,
+      "backup":100,
+      "maxLogSize":104800
+    },
+    {
+      "category": "release",
+      "type": "file",
+      "filename": "/Users/wangjian/Node/IFChat/log/logTody.log",
+      "pattern": "yyyy-MM-dd.log",
+      "alwaysIncludePattern": true,
+      "backup":100,
+      "maxLogSize":104800
+    }
+  ],
+  "replaceConsole": true,
+  "levels":{
+    "debug": "ALL",
+    "release":"Debug",
+    "console":"ALL"
+  }
+}

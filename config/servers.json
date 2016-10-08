@@ -1,0 +1,22 @@
+{
+  "development":{
+    "IFChatGate":[
+      {"id":"gate-1","host":"localhost","port":3002,"innerHost":"","args":"--debug=5859"}
+    ],
+    "IFChatServer":[
+      {"id":"chat-server-1","host":"localhost","port":3001,"innerHost":"localhost","innerPort":4001,"args":"--debug=58580"},
+      {"id":"chat-server-2","host":"localhost","port":3004,"innerHost":"localhost","innerPort":4004,"args":"--debug=58581"}
+    ],
+    "IFChatHttpClient":[
+      {"id":"chat-client-1","host":"localhost","port":3003,"innerHost":"","args":"--debug=5860"}
+    ]
+  },
+  "production":{
+    "IFChatGate":[
+      {"id":"gate-1","host":"192.168.99.9","port":3002,"innerHost":"","args":"--debug=5859"}
+    ],
+    "IFChatServer":[
+      {"id":"chat-server-1","host":"192.168.99.9","port":3001,"innerHost":"","args":"--debug=5858"}
+    ]
+  }
+}
